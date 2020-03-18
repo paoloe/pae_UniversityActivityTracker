@@ -1,4 +1,4 @@
-# Biblioraphy
+# Bibliography
 
 Below is just a list of all the resources I utilised.
 
