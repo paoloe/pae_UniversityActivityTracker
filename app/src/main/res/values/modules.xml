@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="moduleCodes_array">
+        <item>CI301 - The Individual Project</item>
+        <item>CI311 - Specification and Refinement</item>
+        <item>CI346 - Programming Languages, Concurrency and Client Server Computing</item>
+        <item>CI347 - Web and Network Management</item>
+        <item>CI360 - Mobile Application Development</item>
+        <item>CI001 - Career</item>
+        <item>CI002 - Personal Projects</item>
+    </string-array>
+</resources>
